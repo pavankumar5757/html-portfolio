@@ -1,2 +1,2 @@
 # html-portfolio
-This is my wed development project
+This is my wed development beginner project
